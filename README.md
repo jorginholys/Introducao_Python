@@ -1,22 +1,14 @@
-# Desafio Python (Módulo 1) - RocketSeat
-Este desafio é parte das atividades da trilha de formação Python da RocketSeat.
-Mais informações e como executar o programa podem ser encontrado abaixo
+## Introdução ao Python
 
-## Sobre o desafio
+Repositório com a intenção de reunir as anotações e códigos criados ao longo do **módulo 1** do curso sobre a Linguagem Python da Rocketseat.
+O curso será realizado por 50 minutos diários e compartilharei um pouco do dia aqui no readme =)
 
-Nesse desafio desenvolveremos uma agenda para salvar, editar, deletar e marcar um contato como favorito. O resultado da aplicação deve ser apresentado no terminal, assim como foi visto no módulo “Introdução ao Python”.
-
-### Regras da aplicação
-
-- [x] A aplicação deve iniciar mostrando uma lista de opções do que é possível fazer com o app e permitir que o usuário digite uma escolha para iniciar a aplicação.
-- [x] Deve ser possível adicionar um contato
-    - O contato pode ter os dados:
-    - Nome
-    - Telefone
-    - Email
-    - Favorito (está opção é para poder marcar um contato como favorito)
-- [X] Deve ser possível visualizar a lista de contatos cadastrados
-- [X] Deve ser possível editar um contato
-- [X] Deve ser possível marcar/desmarcar um contato como favorito
-- [X] Deve ser possível ver uma lista de contatos favoritos
-- [X] Deve ser possível apagar um contato
+### Diário de Estudos
+* **Dia 1:** Entendimento da sintaxe básica e início dos estudos de tipos de variáveis.
+* **Dia 2:** Vi algumas operações aritméticas básicas, variáveis do tipo string bem como formatações e alguns métodos utilizados para trabalhar com strings.
+* **Dia 3:** Continuação de métodos de trabalho com strings, booleanos e operadores lógicos, definição e métodos de listas.
+* **Dia 4:** Tuplas, dicionários e seus métodos. Estudos de condicionais.
+* **Dia 5:** Entrada de dados, laços de repetição, início do projeto do módulo
+* **Dia 6:** Funções. Comecei a criar as funções do projeto por conta
+* **Dia 7:** Continuei me desafiando no projeto proposto sem assistir ao resultado. Ao final, verifiquei como foi feito pelo instrutor.
+* **Dia 8:** Exceções e Módulos
